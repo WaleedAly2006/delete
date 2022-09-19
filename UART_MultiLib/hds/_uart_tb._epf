@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom uart_tb
+DEFAULT_FILE atom uart_tb/struct.bd
